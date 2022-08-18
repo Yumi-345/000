@@ -3,8 +3,6 @@ __Author__ = "xq"
 import cv2
 import random
 import sys 
-import os 
-
 
 cap = cv2.VideoCapture(0)
 
